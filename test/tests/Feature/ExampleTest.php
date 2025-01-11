@@ -18,5 +18,4 @@ class ExampleTest extends TestCase
 //追加test
         $test=1;
     }
-
 }
