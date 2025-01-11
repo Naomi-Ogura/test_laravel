@@ -17,5 +17,6 @@ class ExampleTest extends TestCase
         $response->assertStatus(200);
 //追加test
         $test=1;
+        $test2= 2;
     }
 }
