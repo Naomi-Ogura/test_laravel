@@ -18,5 +18,6 @@ class ExampleTest extends TestCase
 //追加test
         $test=1;
         $test2= 2;
+        $test3= $test + $test2;
     }
 }
